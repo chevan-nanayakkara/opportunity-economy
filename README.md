@@ -1,7 +1,7 @@
 # The Opportunity Economy
 *Building Capitalism That Works for Everyone Through Strategic Policy*
 
-A collaborative platform for developing comprehensive policy solutions that create genuine wealth-building opportunities for all Americans through the framework of Opportunity Capitalism.
+A collaborative platform for developing comprehensive policy solutions that create genuine wealth-building opportunities for all Americans through the framework of Opportunity Economics.
 
 > "Competition Cures All" and "Democracy and Capitalism: two great tastes that go great together."
 
@@ -9,166 +9,132 @@ A collaborative platform for developing comprehensive policy solutions that crea
 
 This agenda is built on the belief that we can create **The Opportunity Economy**—where everyone has genuine opportunities to build wealth and control their economic lives. The problem isn't capitalism itself—it's that corporate interests have captured our economic systems to extract wealth rather than create opportunities.
 
-## The Opportunity Capitalism Approach
+Something fundamental has broken in American capitalism—or rather, it's working exactly as designed, just not for you. We're told the economy is growing, but working people and families struggle to build wealth despite doing everything right. Meanwhile, corporate profits soar while products are designed to break faster than ever before.
+
+This isn't market failure—it's market design. These aren't natural economic laws but deliberate political choices made over decades to benefit corporate interests at the expense of working people and families. We can redesign capitalism to serve everyone else.
+
+## The Opportunity Economics Approach
 
 **Core Theory**: Economic systems produce the outcomes they're designed to produce. We can redesign capitalism to work for opportunity creation across all levels of society rather than wealth concentration at the top.
 
-**Goal**: Broad-based prosperity, community-controlled development, systematic wealth-building opportunities, and economic democracy.
+**Goal**: Use federal resources to help working people and families, small businesses, and communities build wealth and control their economic development, rather than letting corporate interests extract wealth while people struggle.
 
-## Policy Framework
+This is fundamentally about inclusion and dismantling existing hierarchies that exclude people from economic and political power. We guarantee a minimum standard of living with dignity for all, which frees everyone else to pursue prosperity and innovation without artificial constraints.
 
-### The Four Pillars of Opportunity Capitalism
+## Beyond Left vs. Right: Building a Broad Coalition
 
-1. **Use Our Full Economic Capacity for Real Opportunity**
-2. **Help Working People and Families Build Wealth, Not Just Survive** 
-3. **Community Control Over Economic Development**
-4. **Economic Security and Political Inclusion That Enables Real Achievement**
+Opportunity Economics transcends traditional political divisions because it addresses what people actually experience: an economy that seems rigged against anyone who works for a living. This isn't about left versus right politics—it's about building a broad coalition that moves beyond both failed neoliberalism and corporate-captured politics.
 
-### Published Analysis ✅
+The beauty of Opportunity Economics is that it unites people across political lines around shared economic interests:
+- A Republican small business owner struggling against corporate monopolies
+- A suburban parent losing wealth to products designed to break  
+- A rural family worried about economic security
+- An urban worker wanting genuine opportunities
 
-- [Consumer Depreciation Reform](./published/consumer-depreciation-reform.md) - How corporate-friendly accounting rules transfer $30 trillion from consumers to wealthy pockets
-- [The Opportunity Economy Essay](./published/opportunity-economy-essay.md) - Complete framework for building capitalism that works for everyone
+All benefit from the same systematic changes that serve people's actual interests rather than corporate donors or ideological purity.
 
-### In Development 🏗️
+## The Four Pillars of Opportunity Economics
 
-#### [Economic Democracy Policies](./economic-democracy/)
-- Community Development Banking
-- Working Family Depreciation Credits
-- Federal Job Guarantee Programs
-- Universal Basic Assets
+### Pillar 1: Use Our Full Economic Capacity for Real Opportunity
 
-#### [Breaking Corporate Capture](./corporate-capture/)
-- Antitrust Enforcement for Fair Competition
-- Financial Services Reform
-- Housing Policy for Community Wealth-Building
-- Trade Policy That Serves Communities
+**The Problem**: We're told there's "no money" for community development, infrastructure repair, or job training, while trillions flow to Wall Street bailouts and corporate subsidies.
 
-#### [Building Community Power](./community-power/)
-- Cooperative Development Support
-- Local Economic Control Mechanisms
-- Regional Development Planning
-- Small Business and Entrepreneurship Enhancement
+**The Solution**: Deploy our actual productive capacity—workers, materials, organizational ability—to create opportunities where people live and work.
 
-#### [Political System Reform](./political-reform/)
-- Campaign Finance and Democratic Competition
-- Voting Rights and Political Inclusion
-- Government Accountability and Transparency
-- Ending Political Hegemony
+Since 1971, money has functioned as a tool we create to coordinate economic activity rather than a scarce resource that limits what's possible. The federal government creates money, just as it does for military spending and corporate subsidies. The real constraints are whether we have enough workers, materials, and organizational capacity, not artificial financial limitations.
 
-## The Coalition
+### Pillar 2: Help Working Families Build Wealth, Not Just Survive
 
-Our approach builds a broad coalition that transcends traditional political divisions:
+**The Problem**: Families work hard but lose wealth to planned obsolescence, healthcare profiteering, and housing speculation while businesses get tax breaks for their depreciation.
 
-- **Republicans** frustrated with crony capitalism and corporate capture
-- **Democrats** disappointed by corporate-captured incrementalism  
-- **Independents** wanting practical solutions beyond partisan gridlock
-- **Everyone** who believes working people and families deserve genuine economic opportunities
+**The Solution**: Give working families the same systematic advantages that businesses already receive.
+
+When businesses lose value on equipment, they subtract that depreciation from their taxes. When working people lose value on cars, appliances, and electronics, they get nothing while corporate shareholders profit from replacement sales. This deliberate policy design creates massive barriers to wealth-building for families while channeling profits into wealthy pockets.
+
+### Pillar 3: Community Control Over Economic Development
+
+**The Problem**: Corporate interests and political insiders control economic development while communities have no real say in how their economies develop.
+
+**The Solution**: Democratic institutions that coordinate economic development based on community needs and local priorities.
+
+Local solutions are fundamentally constrained by the size of the local economy, but communities shouldn't be forced to choose between local control and adequate resources. Opportunity Economics provides systematic federal support that enables genuine local autonomy—communities decide how resources are used while accessing national-scale capacity.
+
+### Pillar 4: Economic Security and Political Inclusion That Enables Real Achievement
+
+**The Problem**: Economic insecurity forces people to accept bad deals and prevents them from pursuing opportunities, starting businesses, or building community wealth.
+
+**The Solution**: Economic security and political inclusion as the foundation for genuine achievement and democratic participation.
+
+Economic security isn't the enemy of opportunity—it's the foundation that makes real opportunity possible. When people have healthcare, education, housing security, and basic dignity guaranteed, they can take meaningful risks, start businesses, and engage in community development rather than just survive.
+
+## Policy Development
+
+Explore our comprehensive policy framework:
+- **[View All Policies](./policy-agenda/)** - Complete policy agenda organized by opportunity focus
+- **[Economic Policy](./policy-agenda/economic-policy/)** - Wealth-building, infrastructure, and federal capacity deployment
+- **[Democratic Reform](./policy-agenda/democratic-reform/)** - Political inclusion and participation systems
+- **[Corporate Accountability](./policy-agenda/corporate-accountability/)** - Market competition and fair rules
+- **[Implementation Strategies](./policy-agenda/implementation/)** - Coalition building and coordination tools
+
+### Current Focus
+- ✅ **Consumer Depreciation Reform** - Complete framework for working family tax equity
+- 🏗️ **Community Development Banking** - Local wealth-building financial institutions  
+- 📋 **Federal Job Guarantee** - Systematic opportunity creation through productive work
+- 📋 **Antitrust Enforcement Reform** - Restoring genuine market competition
+
+## From Framework to Action
+
+**Start Now**: Working family depreciation credits, community development banking pilots, enhanced small business support
+
+**Build Momentum**: Job guarantee demonstrations in rural and suburban areas, worker ownership support, systematic entrepreneurship programs  
+
+**Scale Up**: Full opportunity infrastructure that makes community-controlled prosperity the normal outcome
+
+Each step creates immediate benefits while building toward comprehensive opportunity infrastructure.
+
+## Opportunity Caucus
+
+The [Opportunity Caucus](./opportunity-caucus/) represents our organized approach for advancing opportunity-creating policies across political channels and governance levels, emphasizing economic common ground over political differences.
 
 ## How Policy Mechanisms Work
 
 Many of these policy ideas have been working quietly in the background of our governance for decades, known only to bureaucrats and politicians. **The Opportunity Economy** is about connecting these systems to voter activity so you can be part of consciously making them work for you and demanding they be enhanced rather than captured by corporate interests.
 
+Understanding and changing technical details like depreciation rules is how we make capitalism work for everyone, not just those who already have wealth and lobbyists.
+
+## Answering Common Objections
+
+**"This sounds like socialism!"** Opportunity Economics is fundamentally capitalist—it just makes capitalism work for wealth creation across all levels of society rather than just wealth concentration at the top. We're creating genuine market competition instead of corporate monopolization.
+
+**"Where will the money come from?"** The same place it comes from for military spending, corporate bailouts, and tax cuts for the wealthy—the federal government creates it. The question isn't whether we can afford Opportunity Economics, but whether we can afford to keep running an economy designed for wealth extraction.
+
+**"Won't this cause inflation?"** Inflation happens when demand exceeds productive capacity. Opportunity Economics focuses on expanding productive capacity through job guarantee programs, infrastructure development, and community wealth building.
+
 ## Get Involved
 
-Building The Opportunity Economy requires both policy expertise and broad coalition building:
+Building The Opportunity Economy requires both policy expertise and broad coalition building.
 
-- **Policy Experts**: Help develop detailed mechanisms for systematic opportunity creation
-- **Community Organizers**: Connect local needs to national resource capacity
-- **Business Owners**: Shape policies that enable genuine market competition
-- **Everyone**: Join the coalition for economic democracy regardless of your cultural values or political identity
+### New to the project?
+- Browse [current discussions](../../discussions) to see active policy development
+- Check [open issues](../../issues) for specific contribution opportunities  
+- Review our [contribution guide](./CONTRIBUTING.md) for how to participate
 
-### How to Contribute
-
-#### Anonymous Contributions Welcome!
-Don't have a GitHub account or prefer to contribute anonymously? You can still help build The Opportunity Economy:
-
-**Email Submissions:**
-- Send policy ideas to: info@opportunityparty.info
-- Include "Policy Idea" in the subject line
-- We'll review promising ideas and post them to GitHub (anonymously) for community discussion
-
-**What to Include in Your Email:**
-- Brief description of the economic problem you see
-- Your proposed solution or policy idea
-- How it might create opportunities or break corporate capture
-- Any relevant personal or community experience
-
-#### GitHub Contributions (Account Required)
-
-**🎯 Use the Right Template:**
-When creating issues, choose the template that matches your contribution:
-
-- **Federal Action** → Propose congressional legislation, agency rules, executive actions
-- **State Action** → Propose state legislation, regulations, pilot programs  
-- **Local Action** → Propose municipal ordinances, county policies, community organizing
-- **Policy Development** → Develop new policy frameworks, research, or improve existing policies
-
-**💬 For Questions and General Discussion:**
-- Use [GitHub Discussions](../../discussions) for general questions about policies or how to contribute
-- Comment directly on existing issues for specific feedback or research
-- Use pull requests to suggest specific text changes to policy documents
-
-**📋 Contributing Research or Feedback:**
-- **Research**: Comment on relevant policy issues with citations and analysis
-- **Feedback on existing policies**: Comment on the policy's issue or submit a pull request
-- **Technical corrections**: Submit pull requests with specific changes
-
-**Examples of contributions we're looking for:**
-- Ways to help small businesses compete against monopolies
-- Mechanisms for community wealth-building
-- Reforms that give workers more economic power
-- Policies that make markets work more fairly
-- Ideas for connecting federal resources to local community control
-
-**🔄 How Issues Flow:**
-1. **Issue created** using template → Auto-labeled and routed to project board
-2. **Community discussion** → Refinement through comments  
-3. **Development** → Detailed policy drafting
-4. **Implementation tracking** → Federal/state/local coordination
-5. **Publication** → Added to main policy repository
-
-**🏷️ Understanding Labels:**
-- `federal`, `state`, `local` → Government level
-- `policy-development` → New framework development
-- `needs-triage` → Awaiting initial review
-- `implementation` → Active implementation work
-- `coalition-building` → Stakeholder engagement
-
-**📊 Project Boards:**
-Issues automatically appear on project boards based on their labels:
-- [Federal Pipeline](../../projects/1) → All federal-level actions
-- [State Coordination](../../projects/2) → All state-level actions  
-- [Local Actions](../../projects/3) → All local-level actions
-- [Policy Development](../../projects/4) → All policy framework development
-
-### What NOT to Create Issues For:
-- ❌ General questions → Use [Discussions](../../discussions)
-- ❌ Basic policy feedback → Comment on existing issues
-- ❌ Research sharing → Comment on relevant policy issues
-- ❌ Technical corrections → Submit pull requests
-
-### Getting Started:
-1. **New to the project?** Read [The Opportunity Economy essay](./published/opportunity-economy-essay.md)
-2. **Want to contribute?** Browse existing [issues](../../issues) and [discussions](../../discussions)
-3. **Have a specific idea?** Use the appropriate issue template
-4. **Questions?** Start a [discussion](../../discussions) or email info@opportunityparty.info
+### Ready to contribute?
+- **Anonymous contributions welcome:** Email policy ideas to info@opportunityparty.info
+- **Use our issue templates:** Choose from [Federal Action](./.github/ISSUE_TEMPLATE/federal-action.yml), [State Action](./.github/ISSUE_TEMPLATE/state-action.yml), [Local Action](./.github/ISSUE_TEMPLATE/local-action.yml), or [Policy Development](./.github/ISSUE_TEMPLATE/policy-development.yml)
+- **Join ongoing discussions:** Comment on existing issues with research, feedback, or questions
+- **Submit improvements:** Use pull requests for specific policy language or document updates
 
 ### Build the Movement
-- **Join the [Opportunity Party](https://opportunityparty.info)**: Connect with others building this coalition
-- **Share Your Story**: Explain how current policies affect your community or business
-- **Spread the Framework**: Help others understand how Opportunity Capitalism could work for them
-
-### Policy Development Process
-
-1. **Idea Submission** → Discussion, Issue, or Email created
-2. **Community Input** → Feedback and refinement through comments
-3. **Draft Development** → Detailed policy document created
-4. **Expert Review** → Technical analysis and implementation planning
-5. **Publication** → Added to repository as developed policy framework
+- **Share your story:** Explain how current policies affect your family, business, or community
+- **Find common ground:** Engage across political perspectives on economic security and fair competition  
+- **Join the coalition:** [Opportunity Party](https://opportunityparty.info) for broader organizing
 
 ## Latest Activity
 
 See [Recent Discussions](../../discussions) for ongoing policy development toward The Opportunity Economy.
+
+For the complete framework and detailed analysis, visit: [The Opportunity Economy: How to Make Capitalism Work for Everyone](https://chevan.info/opportunity-economy/)
 
 ---
 

@@ -1,5 +1,3 @@
-
-
 # The Opportunity Economy
 *Building Capitalism That Works for Everyone Through Strategic Policy*
 
@@ -96,20 +94,24 @@ Don't have a GitHub account or prefer to contribute anonymously? You can still h
 - Any relevant personal or community experience
 
 #### GitHub Contributions (Account Required)
-For those with GitHub accounts who want to engage directly:
 
-**1. Suggest New Policy Initiatives**
-Have an idea for a policy that would create opportunities or break corporate capture? We want to hear it!
+**🎯 Use the Right Template:**
+When creating issues, choose the template that matches your contribution:
 
-**For General Ideas:**
-- Open a [Discussion](../../discussions) to explore concepts and get community input
-- Use the "Policy Ideas" category to brainstorm with others
-- No need for detailed policy language - just explain the problem and potential solution
+- **Federal Action** → Propose congressional legislation, agency rules, executive actions
+- **State Action** → Propose state legislation, regulations, pilot programs  
+- **Local Action** → Propose municipal ordinances, county policies, community organizing
+- **Policy Development** → Develop new policy frameworks, research, or improve existing policies
 
-**For Specific Proposals:**
-- Open an [Issue](../../issues) with the "Policy Proposal" label
-- Include: problem description, proposed solution, expected impact, implementation considerations
-- Reference which of the Four Pillars your idea supports
+**💬 For Questions and General Discussion:**
+- Use [GitHub Discussions](../../discussions) for general questions about policies or how to contribute
+- Comment directly on existing issues for specific feedback or research
+- Use pull requests to suggest specific text changes to policy documents
+
+**📋 Contributing Research or Feedback:**
+- **Research**: Comment on relevant policy issues with citations and analysis
+- **Feedback on existing policies**: Comment on the policy's issue or submit a pull request
+- **Technical corrections**: Submit pull requests with specific changes
 
 **Examples of contributions we're looking for:**
 - Ways to help small businesses compete against monopolies
@@ -118,12 +120,40 @@ Have an idea for a policy that would create opportunities or break corporate cap
 - Policies that make markets work more fairly
 - Ideas for connecting federal resources to local community control
 
-**2. Develop Existing Policies**
-- **Comment on Drafts**: Add your expertise to policy documents in development
-- **Submit Pull Requests**: Propose specific language improvements or additions
-- **Research Support**: Help gather evidence and case studies for policy proposals
+**🔄 How Issues Flow:**
+1. **Issue created** using template → Auto-labeled and routed to project board
+2. **Community discussion** → Refinement through comments  
+3. **Development** → Detailed policy drafting
+4. **Implementation tracking** → Federal/state/local coordination
+5. **Publication** → Added to main policy repository
 
-**3. Build the Movement**
+**🏷️ Understanding Labels:**
+- `federal`, `state`, `local` → Government level
+- `policy-development` → New framework development
+- `needs-triage` → Awaiting initial review
+- `implementation` → Active implementation work
+- `coalition-building` → Stakeholder engagement
+
+**📊 Project Boards:**
+Issues automatically appear on project boards based on their labels:
+- [Federal Pipeline](../../projects/1) → All federal-level actions
+- [State Coordination](../../projects/2) → All state-level actions  
+- [Local Actions](../../projects/3) → All local-level actions
+- [Policy Development](../../projects/4) → All policy framework development
+
+### What NOT to Create Issues For:
+- ❌ General questions → Use [Discussions](../../discussions)
+- ❌ Basic policy feedback → Comment on existing issues
+- ❌ Research sharing → Comment on relevant policy issues
+- ❌ Technical corrections → Submit pull requests
+
+### Getting Started:
+1. **New to the project?** Read [The Opportunity Economy essay](./published/opportunity-economy-essay.md)
+2. **Want to contribute?** Browse existing [issues](../../issues) and [discussions](../../discussions)
+3. **Have a specific idea?** Use the appropriate issue template
+4. **Questions?** Start a [discussion](../../discussions) or email info@opportunityparty.info
+
+### Build the Movement
 - **Join the [Opportunity Party](https://opportunityparty.info)**: Connect with others building this coalition
 - **Share Your Story**: Explain how current policies affect your community or business
 - **Spread the Framework**: Help others understand how Opportunity Capitalism could work for them
@@ -143,5 +173,3 @@ See [Recent Discussions](../../discussions) for ongoing policy development towar
 ---
 
 *This is a living document that expands as we develop new approaches to building systematic economic opportunity. Licensed under CC0 - these ideas belong to everyone working toward economic democracy.*
-
-

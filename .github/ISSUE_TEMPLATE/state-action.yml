@@ -1,0 +1,94 @@
+name: State Action
+description: Propose or track state-level policy action
+title: "[STATE] "
+labels: ["state", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template to propose or track state-level actions for Opportunity Economy policies.
+  
+  - type: input
+    id: state_region
+    attributes:
+      label: State/Region
+      description: Which state(s) or region?
+      placeholder: e.g., California, Southwest Region, etc.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: action_type
+    attributes:
+      label: State Action Type
+      options:
+        - label: State legislation
+        - label: Regulatory action
+        - label: Pilot program
+        - label: Coalition building
+        - label: Model policy development
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: policy_area
+    attributes:
+      label: Policy Area
+      options:
+        - label: Consumer Depreciation Reform
+        - label: Right to Repair
+        - label: Community Banking
+        - label: Economic Development
+        - label: Other (specify in description)
+    validations:
+      required: true
+
+  - type: dropdown
+    id: current_status
+    attributes:
+      label: Current Status
+      options:
+        - Idea phase
+        - Research needed
+        - Champion identified
+        - In progress
+        - Monitoring
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Brief description of the proposed action
+      placeholder: What specific state action are you proposing?
+    validations:
+      required: true
+
+  - type: input
+    id: timeline
+    attributes:
+      label: Timeline
+      description: Target completion date
+      placeholder: e.g., Q2 2024, Fall 2024, etc.
+
+  - type: textarea
+    id: local_contacts
+    attributes:
+      label: Local Contacts
+      description: Any state legislators, advocates, or organizations involved?
+      placeholder: List contacts, organizations, or note if contacts needed...
+
+  - type: textarea
+    id: federal_connection
+    attributes:
+      label: Federal Connection
+      description: How does this connect to federal policy goals?
+      placeholder: Explain relationship to broader Opportunity Economy framework...
+
+  - type: textarea
+    id: resources_needed
+    attributes:
+      label: Resources Needed
+      description: What support would help this succeed?
+      placeholder: Funding, expertise, connections, research, etc.

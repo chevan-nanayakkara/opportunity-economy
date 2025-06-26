@@ -1,0 +1,80 @@
+name: Federal Action
+description: Propose or track federal-level policy action
+title: "[FEDERAL] "
+labels: ["federal", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template to propose or track federal-level actions for Opportunity Economy policies.
+  
+  - type: checkboxes
+    id: action_type
+    attributes:
+      label: Federal Action Type
+      options:
+        - label: Congressional legislation
+        - label: Agency rulemaking
+        - label: Executive action
+        - label: Federal coalition building
+        - label: Research/analysis needed
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: policy_area
+    attributes:
+      label: Policy Area
+      options:
+        - label: Consumer Depreciation Reform
+        - label: Community Development Banking
+        - label: Federal Job Guarantee
+        - label: Universal Basic Assets
+        - label: Other (specify in description)
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Brief description of the proposed action
+      placeholder: What specific federal action are you proposing?
+    validations:
+      required: true
+
+  - type: dropdown
+    id: timeline
+    attributes:
+      label: Timeline
+      options:
+        - Immediate (0-3 months)
+        - Short-term (3-12 months)
+        - Long-term (1+ years)
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: resources
+    attributes:
+      label: Resources Needed
+      options:
+        - label: Legal/policy expertise
+        - label: Congressional champion
+        - label: Agency contact
+        - label: Coalition partners
+        - label: Research support
+
+  - type: textarea
+    id: success_metrics
+    attributes:
+      label: Success Metrics
+      description: How will we know this succeeded?
+      placeholder: Define measurable outcomes...
+
+  - type: textarea
+    id: related_issues
+    attributes:
+      label: Related Issues
+      description: Link any related issues or discussions
+      placeholder: "#123, #456..."

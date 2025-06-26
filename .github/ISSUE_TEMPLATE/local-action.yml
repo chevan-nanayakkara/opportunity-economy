@@ -1,0 +1,98 @@
+name: Local Action
+description: Propose or track local/municipal policy action
+title: "[LOCAL] "
+labels: ["local", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template to propose or track local and municipal actions for Opportunity Economy policies.
+  
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      description: City, county, or local jurisdiction
+      placeholder: e.g., Austin TX, King County WA, etc.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: action_type
+    attributes:
+      label: Local Action Type
+      options:
+        - label: Municipal ordinance
+        - label: County policy
+        - label: Local coalition
+        - label: Community organizing
+        - label: Pilot demonstration
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: policy_focus
+    attributes:
+      label: Policy Focus
+      options:
+        - label: Consumer protection
+        - label: Right to repair
+        - label: Local banking/credit union
+        - label: Economic development
+        - label: Community wealth building
+        - label: Other (specify in description)
+    validations:
+      required: true
+
+  - type: dropdown
+    id: current_stage
+    attributes:
+      label: Current Stage
+      options:
+        - Idea development
+        - Community research
+        - Stakeholder engagement
+        - Policy drafting
+        - Implementation
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: community_support
+    attributes:
+      label: Community Support
+      options:
+        - label: Have local champions
+        - label: Need to identify supporters
+        - label: Active opposition
+        - label: Neutral/unknown
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Brief description of the proposed action
+      placeholder: What specific local action are you proposing?
+    validations:
+      required: true
+
+  - type: input
+    id: timeline
+    attributes:
+      label: Timeline
+      description: Expected completion
+      placeholder: e.g., 6 months, by end of year, etc.
+
+  - type: textarea
+    id: higher_level_connection
+    attributes:
+      label: Connection to Higher Levels
+      description: How does this support state/federal goals?
+      placeholder: Explain how this local action fits into broader strategy...
+
+  - type: textarea
+    id: support_needed
+    attributes:
+      label: Support Needed
+      description: What resources or coordination would help?
+      placeholder: Technical assistance, funding, connections, research, etc.

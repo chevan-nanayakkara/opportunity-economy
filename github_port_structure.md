@@ -4,39 +4,24 @@
 
 ```
 progressive-policy-agenda/
-├── README.md                           # Main overview and navigation
-├── index.md                           # Your full policy agenda (homepage)
-├── CONTRIBUTING.md                     # How to contribute
-├── LICENSE                            # CC0 license
+├── README.md
+├── index.md
+├── CONTRIBUTING.md
+├── LICENSE
 ├── framework/
 │   ├── progressive-action-framework.md
 │   ├── technical-mastery.md
 │   └── coalition-building.md
-├── published/
-│   └── consumer-depreciation-reform.md
 ├── economic-policy/
 │   ├── README.md
+│   ├── consumer-depreciation-reform.md    ← Your existing analysis goes here
 │   ├── financial-services-reform.md
 │   ├── housing-policy-wealth-building.md
 │   ├── student-debt-reform.md
 │   └── trade-policy.md
 ├── social-infrastructure/
-│   ├── README.md
-│   ├── healthcare-cost-control.md
-│   ├── retirement-security.md
-│   ├── childcare-support.md
-│   └── worker-power.md
 ├── foundation-prosperity/
-│   ├── README.md
-│   ├── green-infrastructure.md
-│   ├── transportation-development.md
-│   ├── broadband-digital.md
-│   └── small-business-support.md
 └── democratic-governance/
-    ├── README.md
-    ├── campaign-finance.md
-    ├── voting-rights.md
-    └── government-effectiveness.md
 ```
 
 ## Main README.md

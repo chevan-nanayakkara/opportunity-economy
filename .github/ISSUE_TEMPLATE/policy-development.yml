@@ -1,0 +1,84 @@
+name: Policy Development
+description: Develop new policy framework or improve existing policies
+title: "[POLICY] "
+labels: ["policy-development", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template to propose new policy development or improvements to existing Opportunity Economy policies.
+  
+  - type: input
+    id: policy_area
+    attributes:
+      label: Policy Area
+      description: What area of Opportunity Economy policy?
+      placeholder: e.g., Community Banking, Worker Ownership, etc.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: development_type
+    attributes:
+      label: Development Type
+      options:
+        - label: New policy framework
+        - label: Improve existing policy
+        - label: Research/analysis
+        - label: Implementation details
+        - label: Coalition strategy
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: government_level
+    attributes:
+      label: Government Level
+      options:
+        - label: Federal
+        - label: State
+        - label: Local
+        - label: Multi-level
+    validations:
+      required: true
+
+  - type: textarea
+    id: policy_question
+    attributes:
+      label: Policy Question
+      description: What specific policy question or problem?
+      placeholder: Clearly state the problem this policy development would address...
+    validations:
+      required: true
+
+  - type: textarea
+    id: research_needed
+    attributes:
+      label: Research Needed
+      description: What information would help develop this?
+      placeholder: Data, case studies, legal analysis, economic modeling, etc.
+
+  - type: checkboxes
+    id: expertise_needed
+    attributes:
+      label: Expertise Needed
+      options:
+        - label: Legal/regulatory
+        - label: Economic analysis
+        - label: Implementation experience
+        - label: Political strategy
+        - label: Technical/industry knowledge
+
+  - type: input
+    id: timeline
+    attributes:
+      label: Timeline
+      description: When is this needed?
+      placeholder: e.g., 3 months, by end of quarter, etc.
+
+  - type: textarea
+    id: expected_outcome
+    attributes:
+      label: Expected Outcome
+      description: What deliverable or result?
+      placeholder: Policy paper, draft legislation, implementation guide, etc.

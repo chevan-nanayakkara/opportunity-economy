@@ -1,0 +1,393 @@
+# ==============================================
+# .GITIGNORE TEMPLATE
+# ==============================================
+# Updated: January 16, 2026
+#
+# DEFAULT: This template assumes a DOCUMENTATION REPOSITORY
+# Most repos are documentation repos until they need code/dependencies.
+#
+# ==============================================
+# WHAT TYPE OF REPOSITORY IS THIS?
+# ==============================================
+#
+# 1. DOCUMENTATION REPOSITORY (DEFAULT - Most repos are this)
+#    Characteristics:
+#    • Markdown, PDF, Word documents, presentations
+#    • Strategy, research, analysis, planning documents
+#    • No code execution, no dependencies, no build process
+#    • Examples: strategic-vision, market-research, business-plans
+#    • Uses: Sections 1-8 of this file (as-is)
+#
+# 2. OPERATIONAL REPOSITORY (Content + Versioned Outputs)
+#    Characteristics:
+#    • Documentation PLUS versioned templates, forms, exports
+#    • SOPs, runbooks, processes, team playbooks
+#    • Fillable PDFs, Word/Excel templates you want to track
+#    • No code execution (yet), but tracks generated artifacts
+#    • Examples: company-operations, client-onboarding, team-handbook
+#    • Uses: Sections 1-8, MODIFY section 7 (see instructions there)
+#
+# 3. DEVELOPMENT REPOSITORY (Code That Executes)
+#    Characteristics:
+#    • Source code files (JavaScript, Python, etc.)
+#    • Dependencies (node_modules/, venv/, package.json)
+#    • Build/compile process (dist/, build/)
+#    • Runtime environment (.env files, configs)
+#    • Examples: company-website, automation-tools, data-pipelines
+#    • Uses: Sections 1-9, UNCOMMENT section 9 (development dependencies)
+#
+# ==============================================
+# DECISION TREE: What should I do?
+# ==============================================
+#
+# START HERE: What's in this repository?
+#
+# ├─ Only documents? (Markdown, Word, PDFs, strategy, research)
+# │  ├─ Do you track generated PDFs/exports? NO
+# │  │  └─ ✓ DOCUMENTATION REPO (default)
+# │  │     Action: Use as-is, sections 1-8
+# │  │
+# │  └─ Do you track generated PDFs/exports? YES (templates, forms)
+# │     └─ ✓ OPERATIONAL REPO
+# │        Action: Go to section 7, COMMENT OUT the patterns for files you track
+# │        Examples: Comment out *.pdf, *.docx, exports/ if you version them
+# │
+# └─ Contains code that executes? (Scripts, automation, applications)
+#    └─ ✓ DEVELOPMENT REPO
+#       Action: Go to section 9, UNCOMMENT your language's dependencies
+#       Examples: Uncomment node_modules/ for JS, __pycache__/ for Python
+#
+# ==============================================
+# WHEN REPOS EVOLVE (How to transition)
+# ==============================================
+#
+# Documentation → Operational:
+# When: You start tracking template outputs (PDFs, forms, exports)
+# Action: Modify section 7 (comment out what you want to track)
+#
+# Documentation → Development:
+# When: You add scripts, automation, or code with dependencies
+# Action: Uncomment section 9 for your language
+#
+# Operational → Development:
+# When: You add automation scripts or tools to your operational docs
+# Action: Uncomment section 9 for your language
+# Note: Keep section 7 modifications (still track templates)
+#
+# ==============================================
+
+# ==============================================
+# 1. SENSITIVE INFORMATION
+# ==============================================
+# Applies to: ALL repository types
+# Importance: CRITICAL for strategy/confidential docs, AS NEEDED for operational
+
+# Environment and credentials
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+*.cert
+*.crt
+credentials.json
+secrets.json
+config.json
+
+# Client-specific sensitive content
+*/credentials/
+*/private/
+*/sensitive/
+*-private.md
+*-confidential.md
+*-internal.md
+*-nda.md
+
+# ==============================================
+# 2. OPERATING SYSTEM FILES
+# ==============================================
+# Applies to: ALL repository types
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+Icon?
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# ==============================================
+# 3. EDITOR & IDE FILES
+# ==============================================
+# Applies to: ALL repository types
+
+# VS Code
+.vscode/
+*.code-workspace
+.history/
+
+# Cursor
+.cursor/
+
+# JetBrains
+.idea/
+*.iml
+
+# Vim
+*.swp
+*.swo
+*.swn
+
+# Sublime
+*.sublime-project
+*.sublime-workspace
+
+# ==============================================
+# 4. CLAUDE CODE & AI TOOLS
+# ==============================================
+# Applies to: ALL repository types
+
+# Claude Code sessions (personal, not for repo)
+.claude/
+
+# AI-generated drafts and outputs
+*.gpt.txt
+*.gpt.md
+*.ai-draft.md
+
+# ==============================================
+# 5. DRAFTS & WORK IN PROGRESS
+# ==============================================
+# Applies to: ALL repository types
+# Note: Documentation repos use this heavily, operational repos less so
+
+# Draft documents not ready for commit
+*-draft.md
+*-wip.md
+drafts/
+scratch/
+
+# Personal working notes
+personal-notes/
+notes-private/
+
+# ==============================================
+# 6. BACKUP & TEMPORARY FILES
+# ==============================================
+# Applies to: ALL repository types
+
+*.bak
+*.backup
+*.old
+*.orig
+*.tmp
+*.temp
+~*
+
+# ==============================================
+# 7. GENERATED & EXPORT FILES
+# ==============================================
+# Applies to: Documentation and Development repos (default excludes)
+#
+# ⚠️ OPERATIONAL REPOS: ACTION REQUIRED!
+# If this is an OPERATIONAL repo that tracks templates/exports,
+# COMMENT OUT the patterns below for files you want to version control.
+#
+# Common operational use cases:
+# - Track fillable PDF forms → Comment out: *.pdf
+# - Track Word templates → Comment out: *.docx
+# - Track Excel templates → Comment out: *.xlsx
+# - Track generated reports → Comment out: exports/
+# - Track presentation templates → Comment out: *.pptx
+#
+# Documentation repos: Leave as-is (don't track generated exports)
+# Operational repos: Modify as needed (track versioned templates)
+# Development repos: Leave as-is (don't track build outputs)
+
+# Content transforms
+*.rendered.md
+*.export.*
+
+# Exports folder (contains generated reports, outputs)
+exports/
+generated/
+
+# PDFs (generated documents)
+# OPERATIONAL: Comment this out if you track PDF templates
+# *.pdf
+
+# Office files (generated documents)
+# OPERATIONAL: Comment these out if you track templates
+# *.docx
+# *.xlsx
+# *.pptx
+
+# Media files
+# Uncomment what you DON'T want in git
+# *.mp4
+# *.mov
+
+# Large design files
+# *.psd
+# *.ai
+
+# ==============================================
+# 8. LOGS & CACHE
+# ==============================================
+# Applies to: ALL repository types
+
+*.log
+logs/
+.cache/
+.tmp/
+
+# ==============================================
+# 9. DEVELOPMENT DEPENDENCIES & BUILD ARTIFACTS
+# ==============================================
+# Applies to: DEVELOPMENT repos only
+# Default: Keep this section COMMENTED (most repos are documentation)
+#
+# ⚠️ DEVELOPMENT REPOS: ACTION REQUIRED!
+# If this is a DEVELOPMENT repo, UNCOMMENT the patterns for your language(s).
+#
+# When to uncomment:
+# ✓ Adding a website, web app, or dashboard
+# ✓ Adding scripts with dependencies (npm install, pip install)
+# ✓ Adding build processes or compilation
+# ✓ Adding automated tools or utilities
+# ✓ Adding data processing pipelines
+# ✓ Adding APIs or integrations
+#
+# Operational → Development transition:
+# When you add automation scripts to an operational repo,
+# uncomment the relevant section below AND keep section 7 modifications
+# (you still want to track your templates while excluding dependencies)
+#
+# Node.js / JavaScript / TypeScript
+# node_modules/
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+# npm-debug.log*
+# yarn-debug.log*
+# yarn-error.log*
+# .npm/
+# dist/
+# build/
+# .next/
+# .nuxt/
+# .cache/
+# .turbo/
+#
+# Python
+# __pycache__/
+# *.py[cod]
+# *$py.class
+# *.so
+# .Python
+# .venv/
+# venv/
+# ENV/
+# env/
+# .ipynb_checkpoints/
+# *.egg-info/
+# .pytest_cache/
+# .coverage
+# htmlcov/
+# .mypy_cache/
+#
+# Ruby
+# *.gem
+# .bundle/
+# vendor/bundle/
+#
+# Go
+# *.exe
+# *.dll
+# *.so
+# *.dylib
+# vendor/
+#
+# Rust
+# target/
+# Cargo.lock
+#
+# Java
+# *.class
+# *.jar
+# *.war
+# target/
+#
+# .NET
+# bin/
+# obj/
+# *.dll
+# *.exe
+#
+# Database files (generated, not source data)
+# *.db
+# *.sqlite
+# *.sqlite3
+#
+# Compiled binaries
+# *.o
+# *.a
+# *.obj
+
+# ==============================================
+# 10. ARCHIVE FILES
+# ==============================================
+# Applies to: Usually all types (archives typically not version controlled)
+# Operational note: Might track some archives (template packages)
+
+# Uncomment if you don't want archives in git
+# *.zip
+# *.tar.gz
+# *.rar
+# *.7z
+
+# ==============================================
+# KEEP THESE (Always track .gitkeep)
+# ==============================================
+# Applies to: ALL repository types
+
+# Keep .gitkeep files (for maintaining empty directories)
+!.gitkeep
+
+# ==============================================
+# QUICK REFERENCE SUMMARY
+# ==============================================
+#
+# DOCUMENTATION REPO (default):
+# ✓ Use sections 1-8 as-is
+# ✓ Section 9 stays commented
+# ✓ You're done!
+#
+# OPERATIONAL REPO:
+# ✓ Use sections 1-8
+# ✓ Go to section 7, COMMENT OUT patterns for files you track
+# ✓ Section 9 stays commented (unless you add scripts)
+#
+# DEVELOPMENT REPO:
+# ✓ Use sections 1-8 as-is
+# ✓ Go to section 9, UNCOMMENT your language's patterns
+# ✓ You're done!
+#
+# ==============================================
